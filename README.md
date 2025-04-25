@@ -95,9 +95,9 @@ By applying and comparing traditional forecasting models, the project demonstrat
 
 | File | Description |
 |------|-------------|
-| `forecasted_dataset.xlsx` | Forecast results for all 8 models |
+| `forecasted_dataset.xlsx` | Forecast results for all 8 models (compressed file) |
 | `README.md` | Project overview and methodology |
-| `raw_data.csv` | Clean version of the original time series |
+| `raw_data.xlsx` | Clean version of the original time series (compressed file) |
 
 ---
 
